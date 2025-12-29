@@ -1,0 +1,15 @@
+h1{
+    color: brown;
+}
+.para{
+    color: rgb(59, 155, 59);
+}
+#h{
+    color: black;
+}
+#h:hover{
+    color: rgba(100, 28, 28, 0.838);
+}
+h1:hover{
+    color: rgb(156, 111, 52);
+}
