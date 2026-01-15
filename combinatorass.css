@@ -1,0 +1,12 @@
+div > h1{
+    color: orange;
+}
+h1 + p{
+    color: blue ;
+}
+div div p{
+    color: rgb(46, 207, 46);
+} 
+div ~ p{
+    color: black;
+}

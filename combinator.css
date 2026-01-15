@@ -1,0 +1,15 @@
+/* div ol li{
+    color: brown;
+} */
+ /* ol > li{
+    color: rgb(225, 132, 11);
+ } */
+  /* div > h2{
+    color: brown;
+  } */
+   /* h1 ~ p{
+    color: rgb(152, 105, 47);
+   } */
+    h1 + p{
+        color: brown;
+    }

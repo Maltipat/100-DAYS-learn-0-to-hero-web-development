@@ -1,0 +1,23 @@
+/* article{
+    height: 100vh;
+    background-color: antiquewhite;
+}
+#bg-img{
+    width: 100vw;
+    height: 50vh;
+    background-color: rgb(223, 129, 28);
+} */
+article{
+    height: 100vh;
+    background-color: antiquewhite;
+}
+#bg-img{
+    width: 50vw;
+    height: 60vh;
+    background-color: rgb(217, 66, 66);
+    background-image: url('imgn.png');
+    background-size: cover;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

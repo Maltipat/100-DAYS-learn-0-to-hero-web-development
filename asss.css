@@ -1,0 +1,33 @@
+nav{
+    background-color:  yellow;
+    text-align: center;
+    justify-content: last baseline;
+    height: 30px;
+    position: sticky;
+    top: 0;
+}
+h1{
+    text-align: center;
+}
+.box{
+    background-color: aqua;
+    border: 10px;
+}
+.box1{
+    background-color: rgb(6, 222, 222);
+
+}
+.chatBot{
+    height: 30px;
+    width: 60px;
+    top: 100px;
+    left: 100px;
+    background-color:blue;
+ }
+ .chat{
+    height: 30px;
+    width: 100px;
+    bottom: 100px;
+    right: 100px;
+    background-color:green;
+ }

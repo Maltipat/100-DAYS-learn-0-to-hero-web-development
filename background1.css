@@ -1,0 +1,40 @@
+article{
+    height: 100vh;
+    background-color: rgb(136, 144, 151);
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.article div:nth-child(1) {
+    height: 300px;
+    width: 200px;
+    background-image: linear-gradient( to top , purple,
+    pink);
+}
+.article div:nth-child(2){
+    height: 300px;
+    width: 200px;
+    background-image: linear-gradient(to left, red,yellow );
+}
+.article div:nth-child(3){
+    height: 300px;
+    width: 200px;
+    background-image: linear-gradient(to bottom , brown ,#987e7e);
+}
+.article div:nth-child(4){
+    height: 300px;
+    width: 200px;
+    background-image: linear-gradient(to right, orange, rgb(111, 61, 61));
+}
+#hell div:nth-child(1){
+    height: 300px;
+    width: 200px;
+    background-image: radial-gradient(circle, red, black);
+
+}
+#hell div:nth-child(2){
+    height: 300px;
+    width: 200px;
+    background-image: radial-gradient(eclipse, brown , rgb(220, 208, 99));
+}

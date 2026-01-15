@@ -1,0 +1,67 @@
+/*h1{
+    /* border-width: 0.1px;
+    border-color: rgb(190, 18, 18);
+    border-style: solid; *
+    border: 5px dashed rgba(194, 19, 19, 0.237);
+} */
+/* h1{
+    border-top: 8px solid rgb(144, 81, 81);
+    border-bottom: 8px solid rgb(227, 75, 75);
+    border-left: 8px solid rgb(220, 147, 11);
+    border-right: 8px solid rgb(53, 40, 65);
+
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+} */
+
+/* h1{
+    border-top: 8px solid rgb(144, 81, 81);
+    border-bottom: 8px solid rgb(227, 75, 75);
+    border-left: 8px solid rgb(220, 147, 11);
+    border-right: 8px solid rgb(53, 40, 65);
+
+} */
+/* #hello{
+
+    width: 300px;
+    background-color: yellow;
+    box-shadow: 10px 10px 10px 5px red;
+ }
+ #div2{
+    margin-top: 50px;
+    margin-left: 50px;
+    border: solid blue;
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    box-shadow: -10px -10px 10px 5px grey;
+ }
+ #div3{
+    border: solid rgb(40, 11, 130);
+    margin-top: 50px;
+    width: 100px;
+    height: 150px;
+    margin-bottom: 50px;
+    box-shadow: 10px 10px 20px 10px rgb(13, 13, 13)  inset ; 
+ } */
+  #hello{
+    border: solid brown;
+    width: fit-content;
+    /* padding: 50px; */
+    /* padding-left: 50px; */
+    /* padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 50px; */
+
+    padding: 50px  10px 10px 50px;
+    background-color: none;
+    /* margin-top: 100px;
+    margin-left: 100px; */
+    /* margin-bottom: 200px;
+    margin-right: 100px; */
+    margin: 100px 20px 100px 10px;
+
+  }
